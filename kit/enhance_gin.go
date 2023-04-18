@@ -3,8 +3,8 @@ package kit
 import (
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
-	"github.com/open-kingfisher/king-utils/common"
-	"github.com/open-kingfisher/king-utils/common/log"
+	"github.com/duiniwukenaihe/king-utils/common"
+	"github.com/duiniwukenaihe/king-utils/common/log"
 	"time"
 )
 

@@ -3,7 +3,7 @@ package Validator
 import (
 	"github.com/gin-gonic/gin/binding"
 	"github.com/go-playground/validator/v10"
-	"github.com/open-kingfisher/king-utils/common/log"
+	"github.com/duiniwukenaihe/king-utils/common/log"
 )
 
 func init() {

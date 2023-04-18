@@ -1,10 +1,10 @@
 package access
 
 import (
-	"github.com/open-kingfisher/king-utils/common"
-	"github.com/open-kingfisher/king-utils/common/log"
-	"github.com/open-kingfisher/king-utils/db"
-	"github.com/open-kingfisher/king-utils/kit"
+	"github.com/duiniwukenaihe/king-utils/common"
+	"github.com/duiniwukenaihe/king-utils/common/log"
+	"github.com/duiniwukenaihe/king-utils/db"
+	"github.com/duiniwukenaihe/king-utils/kit"
 	"github.com/prometheus/client_golang/api"
 	v1 "github.com/prometheus/client_golang/api/prometheus/v1"
 	"k8s.io/client-go/discovery"

@@ -1,7 +1,7 @@
 package kit
 
 import (
-	"github.com/open-kingfisher/king-utils/common"
+	"github.com/duiniwukenaihe/king-utils/common"
 	"os"
 )
 

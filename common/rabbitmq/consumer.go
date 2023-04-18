@@ -2,9 +2,9 @@ package rabbitmq
 
 import (
 	"encoding/json"
-	"github.com/open-kingfisher/king-utils/common"
-	"github.com/open-kingfisher/king-utils/common/log"
-	"github.com/open-kingfisher/king-utils/kit"
+	"github.com/duiniwukenaihe/king-utils/common"
+	"github.com/duiniwukenaihe/king-utils/common/log"
+	"github.com/duiniwukenaihe/king-utils/kit"
 	"github.com/streadway/amqp"
 	"time"
 )

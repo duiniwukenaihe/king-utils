@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/go-ldap/ldap"
-	"github.com/open-kingfisher/king-utils/common/log"
+	"github.com/duiniwukenaihe/king-utils/common/log"
 )
 
 type LDAPClient struct {

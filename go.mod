@@ -1,4 +1,4 @@
-module github.com/open-kingfisher/king-utils
+module github.com/duiniwukenaihe/king-utils
 
 go 1.14
 

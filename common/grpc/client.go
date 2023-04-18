@@ -1,7 +1,7 @@
 package grpc
 
 import (
-	"github.com/open-kingfisher/king-utils/common/log"
+	"github.com/duiniwukenaihe/king-utils/common/log"
 	"google.golang.org/grpc"
 )
 

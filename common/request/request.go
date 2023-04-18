@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/open-kingfisher/king-utils/common"
+	"github.com/duiniwukenaihe/king-utils/common"
 	"io/ioutil"
 	v1 "k8s.io/api/core/v1"
 	"net/http"
